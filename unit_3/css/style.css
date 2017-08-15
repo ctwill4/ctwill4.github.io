@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Saira');
+
 body{
 	background-color: #8CB6C0;
 	color: black;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+	font-family: 'Saira', sans-serif;
 }
 
 h1{
@@ -15,7 +17,7 @@ h1{
 	margin: auto;
 	width: 90%;
 	height: 500px;
-	color: #098D17;
+	color: white;
 	-webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 	max-width: 1400px;
